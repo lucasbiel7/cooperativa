@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://www.renandamazio.com.br/cooperativa'),
+    'url' => env('APP_URL', '/cooperativa'),
 
     /*
     |--------------------------------------------------------------------------
