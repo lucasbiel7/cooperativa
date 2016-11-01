@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/cooperativa', function () {
     return "Primeira lógica com laravel";
 });
 
